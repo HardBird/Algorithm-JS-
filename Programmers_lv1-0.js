@@ -59,6 +59,10 @@ function solution(s){
   function solution(s) {
     return /^[0-9]+$/.test(s) && [4,6].includes(s.length);
   }
+  //또 다른답. 조금더 이해하기가 쉽다.
+  function alpha_string46(s) {
+    return s.length == 4 || s.length == 6 ? !isNaN(s) : false 
+ }
 
   //여기서 정규표현식과 함수가 아직 미숙하다는 것을 느꼈다.
   // .test는 앞에 선언된 변수에 포함된 문자들이 있는지 확인 하는 함수이다.
