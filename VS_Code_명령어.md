@@ -1,4 +1,4 @@
-## VS Code 단축키 정리 
+## VS Code 단축키 정리 ! 
 - ***f5*** : 디버그 시작/정지
 - ***shift + f5*** :  디버그 중지
 - ***f9*** : breakpoint on/off
@@ -38,7 +38,7 @@
 - ***ctrl + /*** : 주석 처리 / 해제
 - ***ctrl + \\*** : 편집창 나누기
 - ***ctrl + z*** : 실행 취소
-- ***ctrl + shift + z*** : 다시 실행
+- ***ctrl + shift + z*** : 다시 실행.
 - ***ctrl + alt + shift + up*** : 위방향으로 컬럼 선택
 - ***ctrl + alt + shift + down*** : 아래방향 컬럼 선택
 - ***ctrl + g*** : 라인 가기(go to line)
