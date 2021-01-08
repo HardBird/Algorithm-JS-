@@ -1,4 +1,4 @@
-## VS Code 단축키 정리 
+## VS Code 단축키 정리
 - ***f5*** : 디버그 시작/정지
 - ***shift + f5*** :  디버그 중지
 - ***f9*** : breakpoint on/off
