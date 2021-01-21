@@ -1,6 +1,7 @@
 ## VS Code 단축키 정리
 [https://www.youtube.com/watch?v=EVxCdenPbFs&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC]   
 
+## 요즘 자바스크립트 트렌드?
 [https://www.youtube.com/watch?v=0wV5rDhelO4&ab_channel=ZeroChoTV]
 - ***f5*** : 디버그 시작/정지
 - ***shift + f5*** :  디버그 중지
