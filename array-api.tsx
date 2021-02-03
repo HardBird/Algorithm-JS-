@@ -86,7 +86,7 @@
       })
 
       console.log('Q8 Answer',result)
-      //some은 OR / evert는 AND 로 생각하면 편하다 !
+      //some은 OR / every는 AND 로 생각하면 편하다 !
   }
   // Q9. compute students' average score
   {
