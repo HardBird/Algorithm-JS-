@@ -32,6 +32,7 @@ bridge_length	weight	truck_weights	return
 ※ 공지 - 2020년 4월 06일 테스트케이스가 추가되었습니다.
 */
 
+//
 //해답 
 function solution(bridge_length, weight, truck_weights) {
     var answer = 0;

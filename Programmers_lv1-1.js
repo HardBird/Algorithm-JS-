@@ -25,6 +25,12 @@ function solution(n) {
 //문제가 조금 귀엽다... 입력받은 자연수만큼 수박을 출력시켜주면된다.
 //단 3이 입력되면 수박수가 되어야하는데 이는 substring을 사용하여서 구분할 수 있다.
 
+
+/* 그렇다면 substr , substring의 차이는??
+substr은 시작점을 기준으로 몇개를 추출할것이냐 ? 라는 뜻이고
+substring은 시작점과 끝점을 기준으로 그사이값을 다 추출해준다! .
+*/
+
 //Q3_시저암호
 function solution(s, n) {
     return s.split('').map((l) => {
