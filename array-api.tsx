@@ -1,3 +1,6 @@
+  // 배열의 중복제거 컴파일러 
+  [https://hianna.tistory.com/422]
+  
   // Q1. make a string out of an array
   const question_1=()=>
   {
