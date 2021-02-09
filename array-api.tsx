@@ -30,6 +30,14 @@
     // console.log('Q4 Answer',result);
     //위와 같은 방식은 새로운 배열을 만드는 것이 아니기 때문에 새로운 배열은 Slice를 사용하자 ! 
     //위 방식을 사용하면 기존 배열을 재사용하기가 어려워지기 때문에 Slice를 애용하삼 ! 
+
+
+
+    /*
+    slice : 기존 배열은 변하지 않고 잘려진 배영을 변환
+    splice : 기존 배열은 변하고 잘려진 배열을 반환 
+    split : 기준을 확인후 기준으로 잘라서 배열을 만든후 만들어진 배열을 반환
+    */
     const result_edit = array.slice(2,5); // 2부터 시작해서 4까지 (n-1)
     console.log('Q4 Answer_edit',result_edit);
   }
