@@ -6,4 +6,4 @@
 3. let's doing algorithm solution
 
 
-break time ( preparing c++ algorithm ) 
+break time ( preparing c++ algorithm, Project by using Jquery  ) 
