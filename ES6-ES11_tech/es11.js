@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=lkTpOHv1Ros 새로운 css 기술들 
+
 //Optional Chaining 
 {
     const person1 = {

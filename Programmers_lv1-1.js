@@ -3,7 +3,6 @@ function solution(n) {
     const primes = [];
     for (var j = 1; j <= n; j++) {
       var isPrime = true;
-      const sqrt = Math.sqrt(j);
       for (var i = 2; i<j; i++) {
         if (j % i ===0){
             isPrime=false;
